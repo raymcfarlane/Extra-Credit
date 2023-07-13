@@ -10,17 +10,6 @@
 ```md
 I added comments describing the functionality of the code found in [reducers.js]
 
-What is the purpose of the action argument that gets passed to the reducer function?
-
-How can we account for multiple types of actions inside the reducer?
-
-Why do we create variable names for each action type in `actions.js`?
-
-How do we make sure that the database is seeded?
-
-Which `npm` package allows us to run both the front end and the back end at the same time? How do you start it?
-
-
 ```
 
 ## Test
